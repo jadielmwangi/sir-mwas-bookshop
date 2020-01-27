@@ -9,6 +9,8 @@
 nav{
     text-align: right;
     background-color: aliceblue;
+  
+    
     
 }
 nav ul{
@@ -34,6 +36,8 @@ font-size: 20px;
 font-weight: 400;
 color: black;
 background-color: darkgray;
+
+
 }
 #kcse{
     float: right;
@@ -42,6 +46,7 @@ background-color: darkgray;
     margin-bottom:10px;
     display: flex;
     flex-direction: row;
+
 }
 .about h2{
     text-align: center;
@@ -54,6 +59,7 @@ background-color: darkgray;
 .home h1{
 text-align: center;
 font-size: 25px;
+
 }
 
 .service h1{
@@ -79,4 +85,7 @@ font-size: 25px;
 }
 .contact{
     text-align: center;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
 }
